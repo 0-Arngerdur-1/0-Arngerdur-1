@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edwin Alvarado</h1>
+<h1 align="center">Hi 👋, I'm Edwin</h1>
 <h3 align="center">A passionate web developer</h3>
 
 - 😄 I’m looking to collaborate on **Python/JS Proyects**
