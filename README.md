@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Software Developer</h1>
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">Hi 👋, I'm Software Engineer</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 😄 I’m looking to collaborate on **Python/JS Proyects**
 
